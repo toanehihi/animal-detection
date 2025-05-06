@@ -1,0 +1,6 @@
+train: D:/AI/datasets/train/images
+val: D:/AI/datasets/val/images
+
+nc: 29
+names: ['0', 'Bear', 'Buffalo', 'Deer', 'Elephant', 'Human', 'Leopard', 'Monkey', 'Raccoon', 'Tiger', 'WildBoar', 'bear', 'buffalo', 'bycicle', 'car', 'cat', 'cow', 'deer', 'dog', 'dogs-cats', 'donkey', 'gaur', 'gaurd dog', 'goat', 'hen', 'otherentities', 'person', 'rat', 'wolf']
+
