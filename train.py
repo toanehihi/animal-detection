@@ -3,7 +3,7 @@ from ultralytics import YOLO
 model = YOLO("yolov8n.pt") 
 
 if __name__ == '__main__':
-    # Bước 2: Train mô hình
+
     model.train(
         data="./data.yaml",  # config file
         epochs=50,                  
